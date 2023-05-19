@@ -17,7 +17,6 @@
 @REM specific language governing permissions and limitations
 @REM under the License.
 @REM ----------------------------------------------------------------------------
-
 @REM ----------------------------------------------------------------------------
 @REM Maven Start Up Batch script
 @REM
